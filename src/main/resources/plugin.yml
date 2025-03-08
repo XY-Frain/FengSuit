@@ -1,0 +1,8 @@
+name: FengSuit
+version: '${project.version}'
+main: xycm.xiaofeng.fengsuit.FengSuit
+depend: [DragonCore, AttributePlus]
+commands:
+  FengSuit:
+    description: "风之套装"
+    usage: /FengSkillView help 获取插件命令帮助
